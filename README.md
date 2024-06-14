@@ -3,9 +3,13 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus1668)](https://solved.ac/tjgus1668)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjgus1668&theme=dark)
+##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh1668)](https://github.com/anuraghazr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh1668)](https://github.com/anuraghazr/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csh1668)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjgus1668)](https://velog.io/@tjgus1668/posts)
 
 
 <!--
