@@ -1,27 +1,36 @@
-## Hello, World!
+<div align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus1668)](https://solved.ac/tjgus1668)
+  
+  ## Hello, World!
 
-##
-<h3 align="center">📖 Stacks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,java,octave" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,mysql,flutter,flask" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+  안녕하세요. 저는 풀 스택 개발자를 꿈꾸는 대학생입니다.
 
-##
+  ## 📖 Stacks
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,java,octave" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=spring,react,mysql,flutter,flask" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csh1668)](https://github.com/anuraghazra/github-readme-stats)
+  ## 📊 Status
 
-##
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus1668)](https://solved.ac/tjgus1668)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csh1668)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjgus1668)](https://velog.io/@tjgus1668/posts)
+  ## 🧾 Blog
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjgus1668)](https://velog.io/@tjgus1668/posts)
+  
+</div>
+
+
+
 
 
 <!--
