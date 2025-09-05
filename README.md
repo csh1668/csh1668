@@ -8,10 +8,10 @@
   ## 📖 Stacks
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,ts,js,java,ocaml,octave" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,ts,js,java,rust,ocaml,octave" />
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=spring,nextjs,vite,react,flutter,flask" />
+    <img src="https://skillicons.dev/icons?i=spring,nextjs,vite,react,flutter,flask,wasm" />
   </p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,prisma,supabase,postgres" />
