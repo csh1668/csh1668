@@ -28,7 +28,7 @@
   ### ✅ solved.ac
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus1668)](https://solved.ac/tjgus1668)
   ### 🅰️ Atcoder
-  [![Atcoder Badge](https://atcoder.junah.dev/v2/generate_badge?name=tjgus1668)](https://atcoder.jp/users/tjgus1668)
+  [![Atcoder Profile](https://atcoder-badge.kro.kr?id=tjgus1668)](https://atcoder.jp/users/tjgus1668)
   ### 📚 Top Langs
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csh1668)](https://github.com/anuraghazra/github-readme-stats)
 
